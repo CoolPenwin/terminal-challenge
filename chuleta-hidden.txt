@@ -13,7 +13,9 @@ ls /* -la
 
 clear
 
-
+find . -name "trophy.txt"
+                          -exec cat {} \;
+              o
 cd sm [TAB] 
 cd [TAB]  (x2)
 cat  [TAB] 
