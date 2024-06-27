@@ -1,0 +1,29 @@
+ls
+cd th [TAB]
+
+
+pwd
+
+
+ls -a
+
+
+ls /* -la
+
+
+clear
+
+
+cd sm [TAB] 
+cd [TAB]  (x2)
+cat  [TAB] 
+
+cd .. (x4)
+ls
+cd funcode/
+
+
+ls -n *.js
+
+cd the-most-funny/
+nkdir no-tan-JaJas
